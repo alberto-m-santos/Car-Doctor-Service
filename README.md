@@ -4,6 +4,9 @@
 Antique cars blog for DIY repairs:
 [Website](https://paginas.fe.up.pt/~up201708979/Novo/landing.php)
 
+![image](https://user-images.githubusercontent.com/89933736/131836344-1e20a6c3-6026-402c-92cc-26a1c3caa9ae.png)
+
+
 ## Contents
 - Personal page with user information;
 - Initial page with the project overview;
