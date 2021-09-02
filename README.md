@@ -34,3 +34,8 @@ Remove registers from the Data Base
 - Remove users;
 
 Read registred users and repairs
+
+![image](https://user-images.githubusercontent.com/89933736/131838759-5785a1fd-f387-44e0-8184-1afd138b48e6.png)
+
+![image](https://user-images.githubusercontent.com/89933736/131838868-f0d873dd-ce23-4f98-a313-189c7db811b3.png)
+
