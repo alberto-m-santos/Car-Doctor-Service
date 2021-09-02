@@ -26,6 +26,9 @@ Add new registers to the Data Base
 - Add or edit repairs;
 - Add users;
 
+![image](https://user-images.githubusercontent.com/89933736/131838473-fcefbc55-c2ed-4c3b-93f4-582cc926956e.png)
+
+
 Remove registers from the Data Base
 - Remove repairs;
 - Remove users;
